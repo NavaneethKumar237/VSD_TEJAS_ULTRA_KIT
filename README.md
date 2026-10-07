@@ -411,9 +411,9 @@ Smart Energy Meter
 | ----------------------------- | ----------------- |
 | VSDSquadron Ultra Integration | ✅ Completed       |
 | Custom Educational PCB        | ✅ Completed       |
-| LED Experiments               | ✅ Completed       |
-| GPIO Experiments              | ✅ Completed |
-| Sensor Experiments            | ✅ Completed  |
+| LED Experiments               | 🔄 In Development      |
+| GPIO Experiments              | 🔄 In Development|
+| Sensor Experiments            | 🔄 In Development  |
 | ADC Experiments               | ✅ Completed  |
 | Voltage Measurement           | ✅ Completed  |
 | Current Measurement           | ✅ Completed  |
