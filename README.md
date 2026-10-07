@@ -379,77 +379,7 @@ Each experiment will contain the required firmware and explanation.
 
 Every experiment will follow a common structure:
 
-```text
-Experiment
-│
-├── Objective
-├── Components Required
-├── Circuit Connection
-├── Pin Configuration
-├── Source Code
-├── Code Explanation
-├── Expected Output
-├── Troubleshooting
-├── Student Exercise
-└── Challenge Task
-```
 
----
-
-# 📁 Repository Structure
-
-```text
-VSDSquadron-Ultra-Educational-Kit/
-│
-├── README.md
-│
-├── 01_Getting_Started/
-│   ├── Introduction.md
-│   ├── Hardware_Overview.md
-│   ├── Software_Setup.md
-│   └── First_Program/
-│
-├── 02_Basic_Electronics/
-│   ├── 01_LED_Blink/
-│   ├── 02_Multiple_LED/
-│   ├── 03_Push_Button/
-│   ├── 04_LED_Button/
-│   └── 05_Buzzer/
-│
-├── 03_GPIO_Experiments/
-│   ├── Digital_Input/
-│   ├── Digital_Output/
-│   └── GPIO_Exercises/
-│
-├── 04_Sensors/
-│   ├── Digital_Sensors/
-│   ├── Analog_Sensors/
-│   └── ADC/
-│
-├── 05_Electrical_Measurement/
-│   ├── Voltage_Measurement/
-│   ├── Current_Measurement/
-│   └── Power_Calculation/
-│
-├── 06_Smart_Energy_Meter/
-│   ├── Firmware/
-│   ├── Circuit/
-│   ├── Dashboard/
-│   ├── Calibration/
-│   └── Documentation/
-│
-├── Hardware/
-│   ├── Schematics/
-│   ├── PCB/
-│   ├── Pinout/
-│   └── BOM/
-│
-├── Images/
-│
-├── Videos/
-│
-└── Datasheets/
-```
 
 ---
 
@@ -501,27 +431,10 @@ Energy
 Smart Energy Meter
 ```
 
-This approach helps students understand how a complete engineering product is developed from smaller concepts.
 
----
 
-# 🎯 Target Users
 
-This educational kit is suitable for:
 
-* School students
-* Engineering students
-* STEM laboratories
-* Embedded systems beginners
-* RISC-V beginners
-* Electronics enthusiasts
-* Robotics students
-* IoT learners
-* Innovation labs
-* Educational institutions
-* Embedded systems training programs
-
-The learning path is designed to accommodate beginners while providing a foundation for advanced projects.
 
 ---
 
@@ -547,45 +460,6 @@ Possible future projects include:
 
 ---
 
-# 📸 Project Gallery
-
-## Custom Educational PCB
-
-*Add PCB image here.*
-
-## VSDSquadron Ultra + Custom PCB
-
-*Add hardware image here.*
-
-## LED Experiment
-
-*Add experiment image here.*
-
-## Sensor Experiment
-
-*Add sensor experiment image here.*
-
-## Energy Meter
-
-*Add final Energy Meter image here.*
-
-## Student Learning
-
-*Add student activity image here.*
-
----
-
-# 🎥 Demonstration
-
-*Add project demonstration video link here.*
-
-Example:
-
-```text
-[Watch the Project Demonstration](YOUR_VIDEO_LINK)
-```
-
----
 
 # 📊 Project Status
 
@@ -603,92 +477,3 @@ Example:
 | Smart Energy Meter            | 🔄 In Development |
 | Student Documentation         | 🔄 In Development |
 
----
-
-# 🤝 Contributions
-
-Suggestions, improvements, experiments and educational content are welcome.
-
-Students, educators, developers and RISC-V enthusiasts can contribute by:
-
-* Adding new experiments
-* Improving documentation
-* Creating example programs
-* Testing hardware
-* Reporting issues
-* Suggesting new educational applications
-
----
-
-# ⚠️ Safety Notice
-
-The Energy Meter section involves electrical measurements.
-
-Students should perform electrical experiments only under proper supervision and with appropriate isolation, protection and safety procedures.
-
-Do not directly connect unsafe mains voltage to the development board or custom PCB.
-
-Always follow the electrical ratings and safety requirements of the measurement circuit.
-
----
-
-# 📜 License
-
-This repository may contain:
-
-* Firmware
-* Hardware designs
-* PCB files
-* Schematics
-* Documentation
-* Educational material
-
-Appropriate licenses for hardware, software and documentation will be specified in the respective directories.
-
----
-
-# ⭐ Project Vision
-
-The goal of this project is simple:
-
-> **Start with a single LED. End with a real engineering system.**
-
-Students begin by learning basic electronics and programming.
-
-They then learn how to interface sensors, process data and work with analog signals.
-
-Finally, they combine everything to create a practical **Smart Energy Meter** using a RISC-V based platform.
-
-```text
-LEARN ELECTRONICS
-       ↓
-LEARN PROGRAMMING
-       ↓
-LEARN RISC-V
-       ↓
-BUILD CIRCUITS
-       ↓
-INTERFACE SENSORS
-       ↓
-PROCESS REAL DATA
-       ↓
-BUILD A REAL PRODUCT
-```
-
----
-
-# 🔗 References
-
-* VSDSquadron Ultra
-  https://www.vlsisystemdesign.com/vsdsquadronultra/
-
-* VSDSquadron GitHub
-  https://github.com/VSDSquadron
-
----
-
-## Made for Hands-On RISC-V Learning
-
-**VSDSquadron Ultra Educational Kit**
-
-**From First LED → To Smart Energy Meter ⚡**
