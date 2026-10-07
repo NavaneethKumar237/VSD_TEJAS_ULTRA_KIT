@@ -296,7 +296,7 @@ The final project is intended to demonstrate how a RISC-V-based embedded platfor
 
 ---
 
-# 🛠️ Hardware Platform
+#  Hardware Platform
 
 The kit uses the **VSDSquadron Ultra** as its main processing platform.
 
@@ -351,7 +351,7 @@ VSDSquadron Ultra
 
 ---
 
-# 📌 Hardware Documentation
+#  Hardware Documentation
 
 The repository will contain complete hardware documentation including:
 
@@ -370,7 +370,7 @@ The repository will contain complete hardware documentation including:
 
 ---
 
-# 💻 Software Documentation
+#  Software Documentation
 
 Each experiment will contain the required firmware and explanation.
 
@@ -380,7 +380,7 @@ Every experiment will follow a common structure:
 
 ---
 
-# 🎓 Educational Methodology
+#  Educational Methodology
 
 The kit follows a simple learning methodology:
 
@@ -435,7 +435,7 @@ Smart Energy Meter
 
 ---
 
-# 🌱 Future Scope
+#  Future Scope
 
 The platform can be expanded with additional modules and applications.
 
@@ -458,7 +458,7 @@ Possible future projects include:
 ---
 
 
-# 📊 Project Status
+#  Project Status
 
 | Component                     | Status            |
 | ----------------------------- | ----------------- |
@@ -472,5 +472,5 @@ Possible future projects include:
 | Current Measurement           | 🔄 In Development |
 | Energy Measurement            | 🔄 In Development |
 | Smart Energy Meter            | 🔄 In Development |
-| Student Documentation         | 🔄 In Development |
+
 
