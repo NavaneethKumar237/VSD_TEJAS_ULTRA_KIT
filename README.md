@@ -236,7 +236,7 @@ This project combines the concepts learned throughout the previous experiments.
 
 ---
 
-# 🧮 Energy Meter Concept
+#  Energy Meter Concept
 
 The energy meter uses electrical measurements and embedded processing to calculate useful energy parameters.
 
@@ -349,30 +349,6 @@ VSDSquadron Ultra
 
 ---
 
-#  Hardware Documentation
-
-The repository will contain complete hardware documentation including:
-
-* PCB overview
-* Circuit diagram
-* Schematic
-* PCB layout
-* Pin configuration
-* GPIO mapping
-* Sensor connections
-* Voltage measurement circuit
-* Current measurement circuit
-* Expansion/PDM pin details
-* Bill of Materials
-* PCB fabrication files
-
----
-
-#  Software Documentation
-
-Each experiment will contain the required firmware and explanation.
-
-Every experiment will follow a common structure:
 
 
 
@@ -425,33 +401,6 @@ Energy
  ↓
 Smart Energy Meter
 ```
-
-
-
-
-
-
----
-
-#  Future Scope
-
-The platform can be expanded with additional modules and applications.
-
-Possible future projects include:
-
-* IoT Energy Monitoring
-* Wireless Energy Dashboard
-* Energy Data Logging
-* Cloud Monitoring
-* Environmental Monitoring
-* Motor Control
-* Robotics
-* Battery Monitoring
-* EV Systems
-* Solar Energy Monitoring
-* Smart Home Applications
-* Industrial Monitoring
-* Edge Computing
 
 ---
 
