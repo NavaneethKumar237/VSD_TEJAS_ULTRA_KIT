@@ -1,8 +1,6 @@
-# VSDSquadron Ultra Educational Kit
+# VSD_TEJAS_ULTRA_KIT
 
 ## Learn Electronics. Program RISC-V. Build Real Products.
-
-The **VSDSquadron Ultra Educational Kit** is a hands-on educational platform built around the **VSDSquadron Ultra RISC-V development board**.
 
 The kit uses a **custom-designed PCB** with built-in LEDs, input/output interfaces, energy measurement circuits, and additional expansion/PDM pins.
 
