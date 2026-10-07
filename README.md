@@ -1,6 +1,6 @@
 # VSDSquadron Ultra Educational Kit
 
-## 🚀 Learn Electronics. Program RISC-V. Build Real Products.
+## Learn Electronics. Program RISC-V. Build Real Products.
 
 The **VSDSquadron Ultra Educational Kit** is a hands-on educational platform built around the **VSDSquadron Ultra RISC-V development board**.
 
@@ -10,7 +10,7 @@ It is designed to provide students with a structured learning journey — starti
 
 ---
 
-## 🎯 Project Vision
+##  Project Vision
 
 The main goal of this kit is to make embedded systems and electronics learning more practical and project-oriented.
 
@@ -42,7 +42,7 @@ By the end of the learning journey, students understand how individual electroni
 
 ---
 
-# 🔧 About the Hardware
+#  About the Hardware
 
 The platform is built around the **VSDSquadron Ultra**, a RISC-V based development platform.
 
@@ -52,7 +52,7 @@ The custom PCB reduces the need for repeated breadboard connections and provides
 
 ---
 
-## 🧩 Custom PCB Features
+##  Custom PCB Features
 
 The custom educational PCB includes:
 
@@ -70,7 +70,7 @@ The PCB is designed so that students can start with very simple experiments and 
 
 ---
 
-# 🧠 Learning Objectives
+#  Learning Objectives
 
 After completing the experiments in this kit, students will gain practical knowledge of:
 
@@ -93,7 +93,7 @@ After completing the experiments in this kit, students will gain practical knowl
 
 ---
 
-# 📚 Learning Path
+#  Learning Path
 
 ## Level 1 — Getting Started
 
@@ -111,7 +111,7 @@ Students begin by understanding the development board and programming environmen
 
 ---
 
-# 💡 Level 2 — Basic Electronics
+#  Level 2 — Basic Electronics
 
 Students begin with simple LED and GPIO experiments.
 
@@ -137,7 +137,7 @@ Students begin with simple LED and GPIO experiments.
 
 ---
 
-# 🔌 Level 3 — GPIO & Sensors
+#  Level 3 — GPIO & Sensors
 
 After understanding basic GPIO, students move toward real-world inputs.
 
@@ -154,7 +154,7 @@ After understanding basic GPIO, students move toward real-world inputs.
 
 ---
 
-# 📈 Level 4 — ADC & Analog Measurement
+# Level 4 — ADC & Analog Measurement
 
 Students are introduced to analog signals and ADC.
 
@@ -172,7 +172,7 @@ This stage prepares students for electrical measurement.
 
 ---
 
-# ⚡ Level 5 — Electrical Measurement
+#  Level 5 — Electrical Measurement
 
 Students now move from general sensors to electrical parameter measurement.
 
@@ -201,7 +201,7 @@ Students use these concepts to understand how electrical energy consumption can 
 
 ---
 
-# ⚡ Level 6 — Smart Energy Meter
+#  Level 6 — Smart Energy Meter
 
 The final stage of the learning journey is the **Smart Energy Meter**.
 
@@ -258,7 +258,7 @@ The final system demonstrates how sensor data can be acquired, processed and con
 
 ---
 
-# 🏆 Final Project
+#  Final Project
 
 ## Smart Energy Meter
 
@@ -277,7 +277,7 @@ The final project is intended to demonstrate how a RISC-V-based embedded platfor
 
 ---
 
-# 🧪 Experiment List
+#  Experiment List
 
 | No. | Experiment           | Main Concept         |
 | --- | -------------------- | -------------------- |
@@ -314,21 +314,18 @@ The platform provides interfaces that can be used for embedded experiments, sens
 * USB interface
 * Wireless capability through the onboard wireless platform
 
-For official information:
 
-**VSDSquadron Ultra:**
-https://www.vlsisystemdesign.com/vsdsquadronultra/
-
-**VSDSquadron GitHub:**
-https://github.com/VSDSquadron
 
 ---
 
-# 🔩 Custom PCB
+# Custom PCB
 
 The custom PCB is the main educational interface between the student and the VSDSquadron Ultra.
 
 Instead of connecting every component individually on a breadboard, students can use the dedicated hardware provided on the PCB.
+
+<img width="1600" height="736" alt="image" src="https://github.com/user-attachments/assets/c765a59f-d21c-4bd6-8b0a-6f8b56ece7bb" />
+
 
 ### The PCB provides:
 
